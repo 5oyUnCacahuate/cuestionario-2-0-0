@@ -1,0 +1,927 @@
+[
+  {
+    "id": "P-0410",
+    "source": "rm-0864-2019",
+    "sourceName": "Protocolo RM 0864/2019",
+    "question": "¿Cuáles son algunas de las preconcepciones que tienden a justificar, naturalizar e incluso promover la violencia contra ciertas personas que presentan características diferentes, siendo discriminadas o perseguidas socialmente por no ajustarse a lo que dicta la norma sociocultural?",
+    "options": [
+      "Estereotipos y prejuicios sociales",
+      "Normas y leyes establecidas",
+      "Diferencias culturales y religiosas",
+      "Todas las anteriores"
+    ],
+    "correctIndex": 0,
+    "explanation": "El protocolo (pág. 16) indica que la violencia psicológica se manifiesta con actitudes violentas basadas en estereotipos y prejuicios sociales, que tienden a justificar, naturalizar e incluso promover la violencia."
+  },
+  {
+    "id": "P-0411",
+    "source": "rm-0864-2019",
+    "sourceName": "Protocolo RM 0864/2019",
+    "question": "¿Qué medidas se deben tomar en caso de que se presente un caso de violencia física en una Unidad Educativa?",
+    "options": [
+      "Se debe informar a los padres del agresor y del agredido y dejar que ellos resuelvan el problema.",
+      "Se debe informar a las autoridades policiales y dejar que ellos resuelvan el problema.",
+      "Se debe informar a las autoridades educativas y tomar medidas disciplinarias contra el agresor.",
+      "Se debe ignorar el problema y esperar a que se resuelva por sí solo."
+    ],
+    "correctIndex": 2,
+    "explanation": "El protocolo establece que cualquier miembro de la comunidad educativa debe comunicar inmediatamente a la directora o director, quien inicia el proceso administrativo correspondiente (págs. 53-54)."
+  },
+  {
+    "id": "P-0412",
+    "source": "rm-0864-2019",
+    "sourceName": "Protocolo RM 0864/2019",
+    "question": "¿En qué consiste la violencia por omisión o negligencia?",
+    "options": [
+      "Es una forma pasiva de violencia, correspondiente a la omisión y/o descuido por parte de las personas adultas en el cuidado y protección de los estudiantes.",
+      "Se manifiesta a través de golpes, puñetazos, patadas, pellizcos, bofetadas, torceduras, empujones, intentos de ahogamiento, agresiones con objetos contundentes o arma blanca, sujeción, provocación de mutilaciones o deformaciones, fracturas, quemaduras, ingestión forzada de drogas o bebidas alcohólicas y otras formas de castigo físico.",
+      "Es una forma de violencia que se ejerce exclusivamente por parte de los estudiantes hacia los adultos de la comunidad educativa.",
+      "Es una forma de violencia que se ejerce exclusivamente por parte de los adultos de la comunidad educativa hacia los estudiantes."
+    ],
+    "correctIndex": 0,
+    "explanation": "El protocolo (págs. 16-17) define la violencia por omisión o negligencia como una forma pasiva de violencia, correspondiente a la omisión y/o descuido por parte de las personas adultas en el cumplimiento de sus obligaciones o responsabilidades."
+  },
+  {
+    "id": "P-0413",
+    "source": "rm-0864-2019",
+    "sourceName": "Protocolo RM 0864/2019",
+    "question": "¿Cuál de las siguientes acciones se deben tomar en caso de detectar un posible caso de violencia en una unidad educativa o centro de educación especial?",
+    "options": [
+      "Ignorar la situación y esperar a que se resuelva sola",
+      "Actuar oportunamente y brindar especial atención, denunciando los hechos a las autoridades correspondientes y realizando el respectivo seguimiento",
+      "Resolver el conflicto de manera violenta",
+      "No hacer nada y esperar a que los estudiantes involucrados resuelvan el problema por sí mismos."
+    ],
+    "correctIndex": 1,
+    "explanation": "El protocolo (pág. 48) señala que se debe actuar oportunamente y brindar especial atención, denunciando los hechos a las autoridades correspondientes y realizando el respectivo seguimiento."
+  },
+  {
+    "id": "P-0428",
+    "source": "rm-0864-2019",
+    "sourceName": "Protocolo RM 0864/2019",
+    "question": "Es Acoso Sexual:",
+    "options": [
+      "Valiéndose de una posición jerárquica o poder de cualquier índole hostigue, persiga, exija, apremie, amenace con producirle un daño o perjuicio en base a comportamientos de contenido sexual.",
+      "Quien, mediante seducción o engaño, tuviera acceso carnal con persona de uno y otro sexo.",
+      "Por cualquier medio de engaño, intimidación, abuso de poder, indujere a privación de libertad, acogida o recepción de personas.",
+      "Todas las anteriores"
+    ],
+    "correctIndex": 0,
+    "explanation": "El protocolo (pág. 20, Tabla 1) define el Acoso Sexual como la conducta de quien, valiéndose de una posición jerárquica o poder de cualquier índole, hostigue, persiga, exija, apremie o amenace con producir un daño o perjuicio en base a comportamientos de contenido sexual."
+  },
+  {
+    "id": "P-0429",
+    "source": "rm-0864-2019",
+    "sourceName": "Protocolo RM 0864/2019",
+    "question": "Niña, niño o adolescente que han sufrido algún tipo de violencia, suelen tener estas consecuencias iniciales:",
+    "options": [
+      "En lo Emocional; aparece la estigmatización, en lo Cognitivo; Fracaso escolar, y en lo Conductual; Consumo de alcohol",
+      "En lo Emocional; cambio drástico de ánimo, en lo Cognitivo; Baja su rendimiento académico, y en lo Conductual; aislamiento social",
+      "En lo Emocional; pierden las ganas de vivir, en lo Cognitivo; prefieren abandonar la Unidad Educativa, y en lo Conductual; se autolesionan",
+      "Todas las anteriores"
+    ],
+    "correctIndex": 1,
+    "explanation": "El protocolo (pág. 24, Tabla 2) en 'Consecuencias a corto plazo': Emocional: cambios bruscos en el estado de ánimo; Cognitivo: disminución del rendimiento escolar; Conductual: aislamiento o marginación social."
+  },
+  {
+    "id": "P-0430",
+    "source": "rm-0864-2019",
+    "sourceName": "Protocolo RM 0864/2019",
+    "question": "Niña, niño o adolescente que han sufrido algún tipo de violencia, suelen tener estas consecuencias finales:",
+    "options": [
+      "En lo Emocional; aparece la estigmatización, en lo Cognitivo; Fracaso escolar, y en lo Conductual; Consumo de alcohol",
+      "En lo Emocional; cambio drástico de ánimo, en lo Cognitivo; Baja su rendimiento académico, y en lo Conductual; aislamiento social",
+      "En lo Emocional; baja autoestima, en lo Cognitivo; prefieren abandonar la Unidad Educativa, y en lo Conductual; tienen tendencia delincuencial",
+      "Todas las anteriores."
+    ],
+    "correctIndex": 2,
+    "explanation": "El protocolo (págs. 24-25, Tabla 2) en 'Consecuencias a largo plazo': Emocional: baja autoestima y pobre autoconcepto; Cognitivo: fracaso escolar; Conductual: conductas delictivas."
+  },
+  {
+    "id": "P-0431",
+    "source": "rm-0864-2019",
+    "sourceName": "Protocolo RM 0864/2019",
+    "question": "Cualquier integrante de la comunidad educativa que tenga conocimiento de hechos de violencia en contra de niñas, niños o adolescentes están obligados:",
+    "options": [
+      "A denunciarlos en un plazo máximo de VEINTICUATRO (24) HORAS de conocido el hecho, ante las Defensorías de la Niñez y Adolescencia o cualquier otra autoridad competente.",
+      "A denunciarlos en un plazo máximo de SETENTA Y DOS (72) HORAS de conocido el hecho, ante el Ministerio Público o cualquier otra autoridad competente.",
+      "A denunciarlos en un plazo máximo de CUARENTA Y OCHO (48) HORAS de conocido el hecho, ante las Defensorías de la Niñez y Adolescencia o cualquier otra autoridad competente.",
+      "Todas son correctas"
+    ],
+    "correctIndex": 0,
+    "explanation": "El protocolo (pág. 53) establece que la denuncia debe realizarse en un plazo máximo de veinticuatro (24) horas de conocido el hecho, ante las Defensorías de la Niñez y Adolescencia o cualquier otra autoridad competente."
+  },
+  {
+    "id": "P-0432",
+    "source": "rm-0864-2019",
+    "sourceName": "Protocolo RM 0864/2019",
+    "question": "El objeto del Protocolo de Prevención, Actuación y Denuncia en casos de Violencia Física, Psicológica y Sexual en las Unidades Educativas y Centros de Educación Especial, es...",
+    "options": [
+      "Orientar la actuación de todas las personas que conforman la comunidad educativa frente a situaciones de violencia intrafamiliar y/o en el entorno más cercano contra la o el estudiante",
+      "Definir los lineamientos directrices y procedimientos para la prevención, actuación, denuncia y protección a las víctimas en casos de violencia física, psicológica y sexual en Unidades Educativas y Centros de Educación Especial por parte de cualquier miembro adulto de la comunidad educativa (directoras, directores, maestras, maestros, personal administrativo, madres, padres y/o tutores) hacia las y los estudiantes (niñas, niños y adolescentes), cometidas o detectadas en el ámbito educativo.",
+      "Garantizar la prevención, identificación temprana y la referencia oportuna, de casos de violencia física, psicológica y sexual ocurrido en unidades educativas y centros de Educación Especial",
+      "Ninguna de las anteriores"
+    ],
+    "correctIndex": 1,
+    "explanation": "El protocolo (pág. 13) establece que su objeto es definir los lineamientos, directrices y procedimientos para la prevención, actuación, denuncia y protección a las víctimas en casos de violencia física, psicológica y sexual en unidades educativas y centros de educación especial."
+  },
+  {
+    "id": "P-0433",
+    "source": "rm-0864-2019",
+    "sourceName": "Protocolo RM 0864/2019",
+    "question": "¿Cuáles son los efectos de la violencia sexual a corto plazo en el periodo inicial de la agresión?",
+    "options": [
+      "Trastornos ansiosos, trastornos de sueño, terrores nocturnos, insomnio, trastornos alimenticios.",
+      "Sentimientos de tristeza y desamparo, cambios bruscos de estado de ánimo, irritabilidad, rebeldía, temores diversos, vergüenza y culpa",
+      "Prostitución, consumo de Alcohol hasta la dependencia del mismo, drogadicción, conductas delictivas, inadaptación social",
+      "Inasistencia consecutiva a las unidades educativas o centros educativos."
+    ],
+    "correctIndex": 1,
+    "explanation": "El protocolo (pág. 24, Tabla 2) en 'Consecuencias emocionales a corto plazo' lista: sentimientos de tristeza y desamparo, cambios bruscos de estado de ánimo, irritabilidad, temores, vergüenza y culpa. La opción A corresponde a consecuencias a mediano plazo."
+  },
+  {
+    "id": "P-0434",
+    "source": "rm-0864-2019",
+    "sourceName": "Protocolo RM 0864/2019",
+    "question": "¿Cómo prevenir la violencia en el Ámbito Educativo?",
+    "options": [
+      "Indagando permanentemente a las niñas, niños y adolescentes que muestran conductas que dejen presumir situaciones irregulares para hacer que nos cuenten los que les pasa.",
+      "Observando detenidamente a las niñas, niños y adolescentes en horas de recreo y durante las clases para detectar conductas irregulares que nos dejen la sospecha de que pasa algo malo",
+      "A través de acciones que faciliten a las niñas, niños y adolescentes empoderarse y ser capaces de tomar decisiones respecto a sus proyectos de vida de manera consciente, libre y autónoma; adquirir valores y principios mediante la práctica, desarrollar habilidades de autocuidado y reconocimiento de los factores de riesgo.",
+      "Diagnosticar el tipo de violencia."
+    ],
+    "correctIndex": 2,
+    "explanation": "El protocolo (pág. 23) indica que las acciones de prevención deben facilitar que los estudiantes se empoderen, tomen decisiones conscientes, libres y autónomas, adquieran valores y desarrollen habilidades de autocuidado y reconocimiento de factores de riesgo."
+  },
+  {
+    "id": "P-0435",
+    "source": "rm-0864-2019",
+    "sourceName": "Protocolo RM 0864/2019",
+    "question": "Son medidas de prevención de la violencia que involucran a maestros y maestras.",
+    "options": [
+      "No podrá permanecer a solas con una o un/a estudiante en el aula u otro ambiente de la Unidad Educativa o Centro de Educación Especial.",
+      "Comunicarse de manera individual con las y los estudiantes cuando se trata de temas ajenos a la escuela.",
+      "Ser un observador pasivo de conflictos que pudieren tener niñas, niños o adolescentes, evitando intervenir en la resolución de sus conflictos",
+      "Ninguna es correcta"
+    ],
+    "correctIndex": 0,
+    "explanation": "El protocolo (pág. 41) establece que el maestro no podrá permanecer a solas con una o un estudiante en el aula u otro ambiente, ni comunicarse de manera individual por teléfono o redes sociales para fines ajenos a lo pedagógico."
+  },
+  {
+    "id": "P-0436",
+    "source": "rm-0864-2019",
+    "sourceName": "Protocolo RM 0864/2019",
+    "question": "Las y los estudiantes de todos los niveles de escolaridad, deben asumir las siguientes acciones de prevención de la violencia:",
+    "options": [
+      "Cumplir los mandatos del director, maestros y personal administrativo",
+      "Conocer y comprender el alcance de sus derechos, deberes y obligaciones, especialmente el derecho al respeto, dignidad, corresponsabilidad y los mecanismos y condiciones de denuncia al interior de la Unidad Educativa y/o Centro de Educación Especial",
+      "Poner en conocimiento del director y maestros cuando una actividad no es de su agrado.",
+      "Evaluar factores de riesgo."
+    ],
+    "correctIndex": 1,
+    "explanation": "El protocolo (pág. 43) establece que los estudiantes deben conocer y comprender el alcance de sus derechos, deberes y obligaciones, especialmente el derecho al respeto, dignidad, corresponsabilidad y los mecanismos y condiciones de denuncia."
+  },
+  {
+    "id": "P-0499",
+    "source": "rm-0864-2019",
+    "sourceName": "Protocolo RM 0864/2019",
+    "question": "Es Violencia Sexual:",
+    "options": [
+      "Enamorar con alguien que tienen una diferencia de edad en un parámetro de 10 años",
+      "Toqueteos, caricias, manoseos o acercamientos de una persona hacia una niña, niño o adolescente.",
+      "Consolidan relaciones de dominación, exclusión, desigualdad y discriminación, naturalizando la subordinación de las mujeres."
+    ],
+    "correctIndex": 1,
+    "explanation": "El protocolo (págs. 16-17) en las manifestaciones de la violencia sexual incluye: toqueteos, caricias, manoseos o acercamientos de una persona hacia una niña, niño o adolescente, consentidos o no por parte de la víctima."
+  },
+  {
+    "id": "P-0500",
+    "source": "rm-0864-2019",
+    "sourceName": "Protocolo RM 0864/2019",
+    "question": "Estupro: Quien, mediante seducción o engaño, tuviera acceso carnal con persona de uno y otro sexo;",
+    "options": [
+      "Mayor de doce (12) y menor de dieciocho (18) años, será sancionado con privación de libertad de ocho a doce años.",
+      "Mayor de catorce (14) y menor de dieciséis (16) años, será sancionado con privación de libertad de tres a seis años.",
+      "Mayor de catorce (14) y menor de dieciocho (18) años, será sancionado con privación de libertad de tres a seis años."
+    ],
+    "correctIndex": 2,
+    "explanation": "El protocolo (pág. 20, Tabla 1) define el Estupro: quien mediante seducción o engaño tuviera acceso carnal con persona mayor de catorce (14) y menor de dieciocho (18) años, será sancionado con privación de libertad de tres a seis años."
+  },
+  {
+    "id": "P-0501",
+    "source": "rm-0864-2019",
+    "sourceName": "Protocolo RM 0864/2019",
+    "question": "Un protocolo de intervención es:",
+    "options": [
+      "La Directora o el Director debe llamar a una asamblea general para asumir políticas que se debe tomar en cuenta como Institución Educativa.",
+      "La Directora o el Director debe asegurarse que la indagación e investigación del personal docente, administrativo, sean en el marco de la confidencialidad, obteniendo así información de la víctima.",
+      "La Directora o el Director debe asegurarse que las actuaciones del personal docente, administrativo, sean en el marco de la confidencialidad, evitando la revictimización."
+    ],
+    "correctIndex": 2,
+    "explanation": "El protocolo (pág. 50) establece que la directora o director debe asegurarse que las actuaciones del personal docente y administrativo sean en un marco de confidencialidad, garantizando la no revictimización de la niña, niño o adolescente."
+  },
+  {
+    "id": "P-0514",
+    "source": "rm-0864-2019",
+    "sourceName": "Protocolo RM 0864/2019",
+    "question": "¿Cuáles son los principios bajo los que se rige el Protocolo de Prevención, Actuación y Denuncia en casos de Violencia Física, Psicológica y Sexual?",
+    "options": [
+      "Interés superior de la niña, niño o adolescente; Cultura de paz; Lucha contra el racismo y toda forma de discriminación; Respeto a la identidad, integridad y dignidad; Prioridad absoluta y atención preferente; Equidad de género e igualdad de derechos; Desarrollo integral; Oportunidad y celeridad en la prevención y atención; Corresponsabilidad de los miembros de la comunidad educativa; Participación.",
+      "Solo el interés superior del niño y la cultura de paz.",
+      "La confidencialidad, la revictimización y la denuncia obligatoria.",
+      "Ninguna de las anteriores."
+    ],
+    "correctIndex": 0,
+    "explanation": "El protocolo (pág. 13) establece 10 principios: interés superior, cultura de paz, lucha contra el racismo, respeto a la identidad, prioridad absoluta, equidad de género, desarrollo integral, oportunidad y celeridad, corresponsabilidad y participación."
+  },
+  {
+    "id": "P-0515",
+    "source": "rm-0864-2019",
+    "sourceName": "Protocolo RM 0864/2019",
+    "question": "Según el protocolo, ¿qué se entiende por violencia?",
+    "options": [
+      "'Constituye violencia, la acción u omisión, por cualquier medio, que ocasione privaciones, lesiones, daños, sufrimientos, perjuicios en la salud física, mental, afectiva, sexual, desarrollo deficiente e incluso la muerte de la niña, el niño o adolescente'. (Art. 147, párrafo I, Ley N° 548)",
+      "Solo la agresión física directa.",
+      "Únicamente el abuso sexual.",
+      "La violencia psicológica y física, excluyendo la omisión o negligencia."
+    ],
+    "correctIndex": 0,
+    "explanation": "El protocolo (pág. 15) cita el Art. 147, párrafo I, de la Ley N° 548: 'Constituye violencia, la acción u omisión, por cualquier medio, que ocasione privaciones, lesiones, daños, sufrimientos, perjuicios en la salud física, mental, afectiva, sexual, desarrollo deficiente e incluso la muerte de la niña, el niño o adolescente'."
+  },
+  {
+    "id": "P-0516",
+    "source": "rm-0864-2019",
+    "sourceName": "Protocolo RM 0864/2019",
+    "question": "¿Qué debe hacer la Directora o el Director de la Unidad Educativa en caso de que la denuncia no corresponda a una situación de falta grave o no se constituya en delito?",
+    "options": [
+      "Debe amonestar por escrito a la maestra o maestro que ha ejercido malos tratos contra una o un estudiante, para que reflexione sobre las causas de su comportamiento e informarle las alternativas para el manejo de la situación.",
+      "Debe despedir inmediatamente al maestro o maestra.",
+      "Debe ignorar la situación por no ser grave.",
+      "Debe remitir el caso directamente a la justicia ordinaria."
+    ],
+    "correctIndex": 0,
+    "explanation": "El protocolo (pág. 57) establece que si la denuncia no corresponde a falta grave o delito, el director debe amonestar por escrito al maestro o maestra que ejerció malos tratos, para que reflexione sobre las causas de su comportamiento."
+  },
+  {
+    "id": "P-0517",
+    "source": "rm-0864-2019",
+    "sourceName": "Protocolo RM 0864/2019",
+    "question": "¿Cuál es el plazo máximo que tiene el Director Distrital de Educación para reportar el hecho a la Dirección Departamental de Educación, luego de recibir una denuncia por violencia?",
+    "options": [
+      "24 horas.",
+      "48 horas.",
+      "72 horas.",
+      "5 días."
+    ],
+    "correctIndex": 1,
+    "explanation": "El protocolo (pág. 61, Ruta 1, Paso 3) indica que el Director Distrital Educativa debe reportar el hecho a la Dirección Departamental de Educación en un plazo máximo de 48 horas."
+  },
+
+
+
+
+
+
+  
+    {
+    "id": "RM0001-001",
+    "source": "rm-0001-2026",
+    "sourceName": "RM 0001/2026 Normas Generales",
+    "question": "Según la RM 0001/2026, ¿cuáles son las tres etapas de carácter obligatorio que comprende la gestión escolar en el Subsistema de Educación Regular?",
+    "options": [
+      "Planificación, Desarrollo y Cierre de gestión",
+      "Planificación y organización de la gestión escolar, Desarrollo curricular y Cierre de Gestión",
+      "Organización de la gestión escolar, Desarrollo curricular y Cierre de Gestión",
+      "Planeación, Ejecución y Evaluación institucional"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Art. 3 de la RM 0001/2026 establece que la gestión educativa comprende las etapas: planificación y organización de la gestión escolar, desarrollo curricular y cierre de gestión."
+  },
+  {
+    "id": "RM0001-002",
+    "source": "rm-0001-2026",
+    "sourceName": "RM 0001/2026 Normas Generales",
+    "question": "¿Qué instrumento permite identificar a los estudiantes y obtener estadísticas oficiales en el Sistema Educativo Plurinacional?",
+    "options": [
+      "RUDE (Registro Único de Estudiantes)",
+      "Acta de inscripción",
+      "Inscripción",
+      "SIE (Sistema de Información Educativa)"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Art. 12 de la RM 0001/2026 establece que el Formulario de Inscripción/actualización Registro Único de Estudiantes (RUDE) permite identificar a los estudiantes y obtener estadísticas oficiales."
+  },
+  {
+    "id": "RM0001-003",
+    "source": "rm-0001-2026",
+    "sourceName": "RM 0001/2026 Normas Generales",
+    "question": "¿Qué se entiende por estudiante en situación de vulnerabilidad o desventaja social según la RM 0001/2026?",
+    "options": [
+      "Todos los niños, niñas y adolescentes del contexto",
+      "Niños, niñas y adolescentes que se encuentran en situación laboral o empleabilidad, víctimas de violencia",
+      "Hijos e hijas de padres privados de libertad, en situación de calle, con discapacidad y otros",
+      "Solo los incisos b y c"
+    ],
+    "correctIndex": 3,
+    "explanation": "El Art. 38 de la RM 0001/2026 define como población en situación de vulnerabilidad a quienes enfrentan barreras estructurales, sociales, económicas, de salud o personales, incluyendo trabajo, violencia, movilidad humana, discapacidad, enfermedad, trata y tráfico y otros."
+  },
+  {
+    "id": "RM0001-004",
+    "source": "rm-0001-2026",
+    "sourceName": "RM 0001/2026 Normas Generales",
+    "question": "Ante indicios de falsificación de documentos presentados al momento de la inscripción, la o el Director de la Unidad Educativa:",
+    "options": [
+      "Remitirá a la Dirección Departamental, a través de la asesoría legal",
+      "Remitirá a la Dirección Distrital, a través de la asesoría legal",
+      "Remitirá vía Dirección Distrital a la Dirección Departamental a través de la asesoría legal",
+      "Ninguna de las anteriores"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Art. 39 de la RM 0001/2026 establece que ante documentos presuntamente falsificados, previa indagación, se realiza la denuncia ante la instancia competente siguiendo el conducto regular: Dirección Distrital → Dirección Departamental."
+  },
+  {
+    "id": "RM0001-005",
+    "source": "rm-0001-2026",
+    "sourceName": "RM 0001/2026 Normas Generales",
+    "question": "Según la RM 0001/2026, ¿qué instrumento regula la gestión administrativa, pedagógica y sociocomunitaria de la unidad educativa, articulando un diagnóstico integral con objetivos, acciones y evaluación?",
+    "options": [
+      "PNCE (Proyecto Nacional de Convivencia Escolar)",
+      "POA (Plan Operativo Anual)",
+      "PAT (Plan Anual Trimestralizado)",
+      "PSP (Proyecto Socioproductivo)"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Art. 5 de la RM 0001/2026 establece que la planificación se realiza considerando dos instrumentos: el POA (Plan Operativo Anual) y el PDC (Plan de Desarrollo Curricular), que sustituyen y unifican al PSP y al PCPA."
+  },
+  {
+    "id": "RM0001-006",
+    "source": "rm-0001-2026",
+    "sourceName": "RM 0001/2026 Normas Generales",
+    "question": "El Plan de Desarrollo Curricular (PDC) según la RM 0001/2026 es:",
+    "options": [
+      "Un instrumento anual que articula la gestión administrativa y sociocomunitaria",
+      "Un instrumento pedagógico-curricular elaborado por los maestros que integra la programación de objetivos, contenidos, estrategias y evaluación",
+      "Un proyecto comunitario sin fines pedagógicos",
+      "Un reglamento de convivencia institucional"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Art. 5 de la RM 0001/2026 define el PDC como instrumento pedagógico-curricular que organiza la planificación educativa del maestro, integrando objetivos, contenidos, estrategias metodológicas y criterios de evaluación."
+  },
+  {
+    "id": "RM0001-007",
+    "source": "rm-0001-2026",
+    "sourceName": "RM 0001/2026 Normas Generales",
+    "question": "Según la RM 0001/2026, ¿cuál es la cantidad máxima de estudiantes por paralelo en Educación Primaria Comunitaria Vocacional?",
+    "options": [
+      "25 estudiantes",
+      "30 estudiantes",
+      "35 estudiantes",
+      "40 estudiantes"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Art. 23, parágrafo II, de la RM 0001/2026 establece que en Educación Primaria Comunitaria Vocacional el máximo es de treinta (30) estudiantes por paralelo y año de escolaridad."
+  },
+  {
+    "id": "RM0001-008",
+    "source": "rm-0001-2026",
+    "sourceName": "RM 0001/2026 Normas Generales",
+    "question": "Según la RM 0001/2026, ¿hasta qué momento se pueden realizar los traslados de estudiantes regulares (no vulnerables) durante la gestión educativa?",
+    "options": [
+      "Hasta el primer trimestre",
+      "Hasta el inicio del segundo trimestre",
+      "Hasta el segundo semestre",
+      "Durante toda la gestión"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Art. 41 de la RM 0001/2026 establece que los traslados de estudiantes regulares se realizarán hasta el inicio del segundo trimestre de la gestión 2026, con la justificación y documentación correspondiente."
+  },
+  {
+    "id": "RM0001-009",
+    "source": "rm-0001-2026",
+    "sourceName": "RM 0001/2026 Normas Generales",
+    "question": "¿Qué documento reciben las y los estudiantes que hayan culminado sus estudios en Educación Secundaria Comunitaria Productiva, según la RM 0001/2026?",
+    "options": [
+      "Título de bachiller",
+      "Certificado de bachiller",
+      "Diploma de Bachiller y fotocopia legalizada",
+      "Acta de graduación"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Art. 31 de la RM 0001/2026 establece que los estudiantes que hayan culminado sus estudios en Secundaria recibirán su Diploma de Bachiller y fotocopia legalizada de forma gratuita a través de las direcciones departamentales de educación."
+  },
+  {
+    "id": "RM0001-010",
+    "source": "rm-0001-2026",
+    "sourceName": "RM 0001/2026 Normas Generales",
+    "question": "¿Quiénes son responsables de reportar la información de los estudiantes destacados para el Incentivo al Bachiller de Excelencia, según la RM 0001/2026?",
+    "options": [
+      "La o el Director de la Unidad Educativa",
+      "La o el Director en coordinación con el Secretario",
+      "La o el Director en coordinación con la Comisión Técnico Pedagógica",
+      "Únicamente la Comisión Técnico Pedagógica"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Art. 32 de la RM 0001/2026 establece que los directores de unidades educativas, en coordinación con la Comisión Técnico Pedagógica, son responsables de reportar la información de los estudiantes destacados al Sistema de Información Educativa."
+  },
+  {
+    "id": "RM0001-011",
+    "source": "rm-0001-2026",
+    "sourceName": "RM 0001/2026 Normas Generales",
+    "question": "Según la RM 0001/2026, ¿qué tipo de viajes quedan terminantemente prohibidos en las unidades educativas?",
+    "options": [
+      "Los viajes de intercambio cultural",
+      "Los viajes de estudio",
+      "Los viajes de promoción",
+      "Las excursiones"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Art. 47 de la RM 0001/2026 establece que quedan terminantemente prohibidos los viajes de promoción."
+  },
+  {
+    "id": "RM0001-012",
+    "source": "rm-0001-2026",
+    "sourceName": "RM 0001/2026 Normas Generales",
+    "question": "Según la RM 0001/2026, las designaciones del personal docente y administrativo efectuadas por las Direcciones Distritales Educativas se realizarán mediante:",
+    "options": [
+      "Memorando de designación",
+      "Compulsa",
+      "Memorando de compulsa",
+      "Contrato verbal"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Art. 55 de la RM 0001/2026 establece que todas las designaciones del personal docente efectuadas por las direcciones distritales educativas se formalizan mediante memorando de designación, adjuntando el formulario de función docente actualizado del SICH."
+  },
+  {
+    "id": "RM0001-013",
+    "source": "rm-0001-2026",
+    "sourceName": "RM 0001/2026 Normas Generales",
+    "question": "Según la RM 0001/2026, las y los directores de unidades educativas deben gestionar la adecuación y dotación de infraestructura, mobiliario, equipamiento y material de bioseguridad ante:",
+    "options": [
+      "La Dirección Distrital",
+      "Los Gobiernos Autónomos Municipales",
+      "La Dirección Departamental de Educación",
+      "El Ministerio de Educación"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Art. 56 de la RM 0001/2026 establece que los directores de unidades educativas fiscales y de convenio coordinarán y planificarán actividades con los Gobiernos Autónomos Municipales para el mejoramiento de la infraestructura educativa."
+  },
+  {
+    "id": "RM0001-014",
+    "source": "rm-0001-2026",
+    "sourceName": "RM 0001/2026 Normas Generales",
+    "question": "Según la RM 0001/2026, ¿qué edad deben tener los estudiantes para inscribirse en Educación Primaria Comunitaria Vocacional?",
+    "options": [
+      "5 años cumplidos al 31 de marzo",
+      "6 años cumplidos al 31 de marzo",
+      "7 años cumplidos al 31 de marzo",
+      "6 años cumplidos al 31 de diciembre"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Art. 15, parágrafo III, de la RM 0001/2026 establece que para Educación Primaria Comunitaria Vocacional los estudiantes deben tener 6 años cumplidos al 31 de marzo de 2026."
+  },
+  {
+    "id": "RM0001-015",
+    "source": "rm-0001-2026",
+    "sourceName": "RM 0001/2026 Normas Generales",
+    "question": "Según la RM 0001/2026, ¿qué conducta está terminantemente prohibida en el aula?",
+    "options": [
+      "Usar calculadora",
+      "Usar celulares",
+      "Usar tablets educativas",
+      "Usar libros digitales"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Art. 45 de la RM 0001/2026 establece que queda terminantemente prohibido el uso de celulares en el aula por parte de estudiantes y maestros."
+  },
+  {
+    "id": "RM0001-016",
+    "source": "rm-0001-2026",
+    "sourceName": "RM 0001/2026 Normas Generales",
+    "question": "Según la RM 0001/2026, ¿cuántos días hábiles comprende la gestión educativa del Subsistema de Educación Regular?",
+    "options": [
+      "180 días hábiles",
+      "190 días hábiles",
+      "200 días hábiles",
+      "210 días hábiles"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Art. 3, parágrafo II, de la RM 0001/2026 establece que el desarrollo curricular comprende doscientos (200) días hábiles trabajados efectivamente, divididos en tres trimestres."
+  },
+  {
+    "id": "RM0001-017",
+    "source": "rm-0001-2026",
+    "sourceName": "RM 0001/2026 Normas Generales",
+    "question": "Según la RM 0001/2026, ¿cuál es la duración de las horas pedagógicas en Educación Primaria y Secundaria en los turnos mañana y tarde?",
+    "options": [
+      "5 horas de 30 minutos",
+      "6 horas de 35 minutos",
+      "6 horas de 40 minutos",
+      "5 horas de 45 minutos"
+    ],
+    "correctIndex": 2,
+    "explanation": "El Art. 7, inciso b, de la RM 0001/2026 establece que en Educación Primaria Comunitaria Vocacional y Educación Secundaria Comunitaria Productiva se deben cumplir 6 horas pedagógicas de 40 minutos en los turnos mañana y tarde."
+  },
+  {
+    "id": "RM0001-018",
+    "source": "rm-0001-2026",
+    "sourceName": "RM 0001/2026 Normas Generales",
+    "question": "Según la RM 0001/2026, ¿cuál es el número máximo de paralelos por año de escolaridad que pueden crearse en las unidades educativas?",
+    "options": [
+      "Dos paralelos",
+      "Tres paralelos",
+      "Cuatro paralelos",
+      "Cinco paralelos"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Art. 21, parágrafo III, de la RM 0001/2026 establece que se prohíbe la creación de más de tres (3) paralelos por año de escolaridad en las unidades educativas."
+  },
+  {
+    "id": "RM0001-019",
+    "source": "rm-0001-2026",
+    "sourceName": "RM 0001/2026 Normas Generales",
+    "question": "Según la RM 0001/2026, ¿cuál es el número máximo de estudiantes por paralelo en Educación Inicial en Familia Comunitaria Escolarizada?",
+    "options": [
+      "20 estudiantes",
+      "25 estudiantes",
+      "30 estudiantes",
+      "35 estudiantes"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Art. 23, parágrafo I, de la RM 0001/2026 establece que en el nivel de Educación Inicial en Familia Comunitaria Escolarizada el número máximo será de veinticinco (25) estudiantes por paralelo y año de escolaridad."
+  },
+  {
+    "id": "RM0001-020",
+    "source": "rm-0001-2026",
+    "sourceName": "RM 0001/2026 Normas Generales",
+    "question": "Según la RM 0001/2026, ¿qué se establece respecto a los estudiantes con Trastorno del Espectro Autista (TEA)?",
+    "options": [
+      "Solo pueden inscribirse en centros de educación especial",
+      "Deben ser inscritos en unidades educativas regulares sin restricción alguna",
+      "Deben tener un maestro exclusivo",
+      "No pueden participar en clases regulares"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Art. 37 de la RM 0001/2026 establece que todos los estudiantes con Trastorno del Espectro Autista deberán ser inscritos en las unidades educativas del Subsistema de Educación Regular sin restricción alguna, pudiendo realizar inscripción simultánea en centros de educación especial para el apoyo técnico pedagógico."
+  },
+
+    {
+    "id": "RMAE-001",
+    "source": "rm-0001-2026-ae",
+    "sourceName": "RM 0001/2026 Alternativa y Especial",
+    "question": "¿Cuántos días hábiles de trabajo educativo comprenden las actividades en los centros de educación alternativa de jóvenes y adultos y centros de educación especial?",
+    "options": ["150 días", "180 días", "200 días", "220 días"],
+    "correctIndex": 2,
+    "explanation": "El Art. 3 de la RM 0001/2026 establece que las actividades educativas comprenden un total equivalente a doscientos (200) días hábiles de trabajo educativo."
+  },
+  {
+    "id": "RMAE-002",
+    "source": "rm-0001-2026-ae",
+    "sourceName": "RM 0001/2026 Alternativa y Especial",
+    "question": "¿A qué instancia deben registrar los directores la Hoja de Concepto del personal docente al concluir la gestión educativa?",
+    "options": ["sisep.minedu.gob.bo", "sich.minedu.gob.bo", "sie.minedu.gob.bo", "rudeal.minedu.gob.bo"],
+    "correctIndex": 0,
+    "explanation": "El Art. 3, parágrafo IV, establece que los directores deben registrar la Hoja de Concepto en la página web sisep.minedu.gob.bo, en cumplimiento a los Artículos 26 y 33 del Reglamento del Escalafón."
+  },
+  {
+    "id": "RMAE-003",
+    "source": "rm-0001-2026-ae",
+    "sourceName": "RM 0001/2026 Alternativa y Especial",
+    "question": "¿Qué instancias son las únicas responsables de gestionar recursos económicos ante los Gobiernos Autónomos Municipales para los centros de educación alternativa y especial?",
+    "options": ["Los directores de unidades educativas", "Los directores distritales de educación en coordinación con los centros", "Las subdirecciones de educación", "El Ministerio de Educación"],
+    "correctIndex": 1,
+    "explanation": "El Art. 7 establece que los directores distritales de educación, en coordinación con los centros de educación alternativa y especial, deben gestionar ante los GAM la asignación de recursos económicos."
+  },
+  {
+    "id": "RMAE-004",
+    "source": "rm-0001-2026-ae",
+    "sourceName": "RM 0001/2026 Alternativa y Especial",
+    "question": "¿Cuál es el nombre del instrumento exclusivo y obligatorio para el maestro en el ámbito de la Educación Alternativa?",
+    "options": ["Cuaderno Pedagógico", "Cuaderno Andragógico", "Cuaderno de Registro", "Cuaderno Curricular"],
+    "correctIndex": 1,
+    "explanation": "El Art. 20 establece que el Cuaderno Andragógico es el instrumento exclusivo y obligatorio para el maestro en el ámbito de la Educación Alternativa."
+  },
+  {
+    "id": "RMAE-005",
+    "source": "rm-0001-2026-ae",
+    "sourceName": "RM 0001/2026 Alternativa y Especial",
+    "question": "¿Cuál es la edad mínima para inscribirse en la etapa de Aprendizajes Elementales de Educación Primaria de Personas Jóvenes y Adultas?",
+    "options": ["13 años", "14 años", "15 años", "16 años"],
+    "correctIndex": 2,
+    "explanation": "El Art. 14 establece que para la etapa de Aprendizajes Elementales de Educación Primaria de Personas Jóvenes y Adultas, la edad mínima es de 15 años."
+  },
+  {
+    "id": "RMAE-006",
+    "source": "rm-0001-2026-ae",
+    "sourceName": "RM 0001/2026 Alternativa y Especial",
+    "question": "¿Cuál es la edad mínima para inscribirse en la etapa de Aprendizajes Especializados de Educación Secundaria de Personas Jóvenes y Adultas?",
+    "options": ["15 años", "16 años", "17 años", "18 años"],
+    "correctIndex": 3,
+    "explanation": "El Art. 14 establece que para la etapa de Aprendizajes Especializados de Educación Secundaria de Personas Jóvenes y Adultas, la edad mínima es de 18 años."
+  },
+  {
+    "id": "RMAE-007",
+    "source": "rm-0001-2026-ae",
+    "sourceName": "RM 0001/2026 Alternativa y Especial",
+    "question": "¿Cuál es la edad mínima para inscribirse en el Área de Educación Técnica, Tecnológica y Productiva de Personas Jóvenes y Adultas?",
+    "options": ["13 años", "14 años", "15 años", "18 años"],
+    "correctIndex": 2,
+    "explanation": "El Art. 14, parágrafo IV, establece que para inscribirse en el Área de Educación Técnica, Tecnológica y Productiva, los participantes deben tener 15 años cumplidos."
+  },
+  {
+    "id": "RMAE-008",
+    "source": "rm-0001-2026-ae",
+    "sourceName": "RM 0001/2026 Alternativa y Especial",
+    "question": "¿Cuál es el nombre del formulario de registro para el Subsistema de Educación Alternativa?",
+    "options": ["RUDE", "RUDEE", "RUDEAL", "SIE"],
+    "correctIndex": 2,
+    "explanation": "El Art. 14 menciona el Formulario de Registro Único de Educación Alternativa - RUDEAL, debidamente llenado y firmado por el estudiante/participante."
+  },
+  {
+    "id": "RMAE-009",
+    "source": "rm-0001-2026-ae",
+    "sourceName": "RM 0001/2026 Alternativa y Especial",
+    "question": "¿Cuál es el nombre del formulario de registro para el Subsistema de Educación Especial?",
+    "options": ["RUDE", "RUDEE", "RUDEAL", "SIE"],
+    "correctIndex": 1,
+    "explanation": "El Art. 55, parágrafo II, menciona que los centros de educación especial deberán actualizar el formulario RUDEE en caso de que el estudiante cambie algún dato."
+  },
+  {
+    "id": "RMAE-010",
+    "source": "rm-0001-2026-ae",
+    "sourceName": "RM 0001/2026 Alternativa y Especial",
+    "question": "¿Cuál es la relación mínima maestro-estudiante en Educación Secundaria de Personas Jóvenes y Adultas en el área urbana?",
+    "options": ["10 estudiantes", "15 estudiantes", "20 estudiantes", "25 estudiantes"],
+    "correctIndex": 2,
+    "explanation": "El Art. 21 establece que para Educación Secundaria de Personas Jóvenes y Adultas, la relación mínima maestro-estudiante es de 20 en el área urbana."
+  },
+  {
+    "id": "RMAE-011",
+    "source": "rm-0001-2026-ae",
+    "sourceName": "RM 0001/2026 Alternativa y Especial",
+    "question": "¿Cuál es la relación mínima maestro-estudiante en Educación Técnica de Personas Jóvenes y Adultas?",
+    "options": ["10 estudiantes", "15 estudiantes", "20 estudiantes", "25 estudiantes"],
+    "correctIndex": 1,
+    "explanation": "El Art. 21 establece que para Educación Técnica de Personas Jóvenes y Adultas, la relación mínima maestro-estudiante es de 15."
+  },
+  {
+    "id": "RMAE-012",
+    "source": "rm-0001-2026-ae",
+    "sourceName": "RM 0001/2026 Alternativa y Especial",
+    "question": "¿Cuál es la duración de cada período en el área de Educación de Personas Jóvenes y Adultas?",
+    "options": ["30 minutos", "35 minutos", "40 minutos", "45 minutos"],
+    "correctIndex": 2,
+    "explanation": "El Art. 31 establece que los procesos educativos se desarrollarán con cuatro períodos en Educación Humanística y cinco en Educación Técnica, con una duración de 40 minutos por período."
+  },
+  {
+    "id": "RMAE-013",
+    "source": "rm-0001-2026-ae",
+    "sourceName": "RM 0001/2026 Alternativa y Especial",
+    "question": "¿Cuál es la duración de cada período en los centros de Educación Especial?",
+    "options": ["30 minutos", "35 minutos", "40 minutos", "45 minutos"],
+    "correctIndex": 3,
+    "explanation": "El Art. 70 establece que los procesos educativos en centros de educación especial se desarrollarán con cinco períodos por día, cada uno de 45 minutos."
+  },
+  {
+    "id": "RMAE-014",
+    "source": "rm-0001-2026-ae",
+    "sourceName": "RM 0001/2026 Alternativa y Especial",
+    "question": "¿Cuáles son las modalidades de atención en el ámbito de Educación Especial?",
+    "options": ["Directa e Indirecta", "Presencial y a distancia", "Escolarizada y no escolarizada", "Pública y privada"],
+    "correctIndex": 0,
+    "explanation": "El Art. 71 establece que en Educación Especial el proceso educativo se desarrolla mediante dos modalidades: Modalidad de Atención Directa y Modalidad de Atención Indirecta."
+  },
+  {
+    "id": "RMAE-015",
+    "source": "rm-0001-2026-ae",
+    "sourceName": "RM 0001/2026 Alternativa y Especial",
+    "question": "¿Cuáles son las modalidades educativas en el ámbito de Educación Alternativa?",
+    "options": ["Presencial, Semipresencial y a Distancia", "Directa e Indirecta", "Escolarizada y no escolarizada", "Regular y Especial"],
+    "correctIndex": 0,
+    "explanation": "El Art. 32 establece tres modalidades: Presencial, Semipresencial y a Distancia."
+  },
+  {
+    "id": "RMAE-016",
+    "source": "rm-0001-2026-ae",
+    "sourceName": "RM 0001/2026 Alternativa y Especial",
+    "question": "¿Cuál es la edad mínima del Programa de Educación Sociocomunitaria en Casa para Personas con Discapacidad Grave y Muy Grave?",
+    "options": ["3 años", "4 años", "5 años", "6 años"],
+    "correctIndex": 2,
+    "explanation": "El Art. 66 establece que el programa está dirigido a personas con discapacidad grave y muy grave con edad comprendida entre cinco (5) a veinte (20) años."
+  },
+  {
+    "id": "RMAE-017",
+    "source": "rm-0001-2026-ae",
+    "sourceName": "RM 0001/2026 Alternativa y Especial",
+    "question": "¿Cuál es la edad máxima del Programa de Educación Sociocomunitaria en Casa para Personas con Discapacidad Grave y Muy Grave?",
+    "options": ["15 años", "18 años", "20 años", "22 años"],
+    "correctIndex": 2,
+    "explanation": "El Art. 66 establece que el programa está dirigido a personas con discapacidad grave y muy grave con edad comprendida entre cinco (5) a veinte (20) años."
+  },
+  {
+    "id": "RMAE-018",
+    "source": "rm-0001-2026-ae",
+    "sourceName": "RM 0001/2026 Alternativa y Especial",
+    "question": "¿Qué significa la sigla DPA en el ámbito de Educación Especial?",
+    "options": ["Diseño Pedagógico Alternativo", "Diseño Plural para los Aprendizajes", "Desarrollo Pedagógico Aplicado", "Diseño Progresivo de Aprendizajes"],
+    "correctIndex": 1,
+    "explanation": "El Art. 62 establece el Diseño Plural para los Aprendizajes – DPA, que incluye dosificación, priorización, diversificación y flexibilización curricular."
+  },
+  {
+    "id": "RMAE-019",
+    "source": "rm-0001-2026-ae",
+    "sourceName": "RM 0001/2026 Alternativa y Especial",
+    "question": "¿Cuáles son las etapas de aprendizaje de la Educación Secundaria de Personas Jóvenes y Adultas?",
+    "options": ["Elementales, Avanzados, Aplicados y Complementarios", "Aplicados, Complementarios y Especializados", "Básicos, Medios y Superiores", "Iniciales, Intermedios y Finales"],
+    "correctIndex": 1,
+    "explanation": "Según los Artículos 14 y 45, las etapas de la Educación Secundaria son: Aprendizajes Aplicados, Aprendizajes Complementarios y Aprendizajes Especializados."
+  },
+  {
+    "id": "RMAE-020",
+    "source": "rm-0001-2026-ae",
+    "sourceName": "RM 0001/2026 Alternativa y Especial",
+    "question": "¿Cuáles son las etapas de aprendizaje de la Educación Primaria de Personas Jóvenes y Adultas?",
+    "options": ["Básicos y Medios", "Elementales y Avanzados", "Aplicados y Complementarios", "Iniciales y Finales"],
+    "correctIndex": 1,
+    "explanation": "Según el Art. 14, las etapas de la Educación Primaria son: Aprendizajes Elementales y Aprendizajes Avanzados."
+  },
+  {
+    "id": "RMAE-021",
+    "source": "rm-0001-2026-ae",
+    "sourceName": "RM 0001/2026 Alternativa y Especial",
+    "question": "¿Cuántas etapas debe haber concluido un estudiante para obtener el Diploma de Bachiller en Educación Alternativa?",
+    "options": ["Desde Aprendizajes Elementales hasta Especializados", "Desde Aprendizajes Aplicados hasta Especializados", "Desde Aprendizajes Avanzados hasta Complementarios", "Desde Aprendizajes Complementarios hasta Especializados"],
+    "correctIndex": 1,
+    "explanation": "El Art. 36 establece que se debe haber concluido desde la Etapa de Aprendizajes Aplicados (Tercer Año) hasta la Etapa de Aprendizajes Especializados (Quinto Año)."
+  },
+  {
+    "id": "RMAE-022",
+    "source": "rm-0001-2026-ae",
+    "sourceName": "RM 0001/2026 Alternativa y Especial",
+    "question": "¿Cuál es el porcentaje mínimo de becas completas que deben otorgar los centros de educación alternativa privados por semestre?",
+    "options": ["5%", "10%", "15%", "20%"],
+    "correctIndex": 1,
+    "explanation": "El Art. 52 establece que los centros de educación alternativa privados deberán otorgar regímenes de becas completas al 10% del total de su población matriculada por semestre."
+  },
+  {
+    "id": "RMAE-023",
+    "source": "rm-0001-2026-ae",
+    "sourceName": "RM 0001/2026 Alternativa y Especial",
+    "question": "¿Cuál es el número máximo de cuotas en que pueden dividirse las pensiones en centros de educación alternativa privados?",
+    "options": ["3 cuotas por semestre", "5 cuotas por semestre o anuales", "8 cuotas anuales", "10 cuotas anuales"],
+    "correctIndex": 1,
+    "explanation": "El Art. 50 establece que las pensiones podrán dividirse en cuotas iguales hasta un máximo de cinco cuotas por semestre o anuales."
+  },
+  {
+    "id": "RMAE-024",
+    "source": "rm-0001-2026-ae",
+    "sourceName": "RM 0001/2026 Alternativa y Especial",
+    "question": "¿Cuál de las siguientes es una prohibición expresa para los centros de educación alternativa privados?",
+    "options": ["Cobrar matrícula o derecho de inscripción", "Cobrar hasta 5 pensiones anuales", "Tener más de 100 estudiantes", "Contratar personal sin título"],
+    "correctIndex": 0,
+    "explanation": "El Art. 50, parágrafo III, establece que se prohíbe el cobro de matrícula, derecho de inscripción o cualquier otro concepto."
+  },
+  {
+    "id": "RMAE-025",
+    "source": "rm-0001-2026-ae",
+    "sourceName": "RM 0001/2026 Alternativa y Especial",
+    "question": "¿Qué está prohibido para los centros de educación alternativa privados respecto a sus participantes por falta de pago?",
+    "options": ["Amonestar verbalmente", "Suspenderlos o retener libretas", "Reportar a la Defensoría", "Cobrar intereses moratorios"],
+    "correctIndex": 1,
+    "explanation": "El Art. 51 establece que los centros de educación alternativa privados están prohibidos de suspender a los participantes de sus procesos educativos o retener libretas de calificaciones por falta de pago."
+  },
+  {
+    "id": "RMAE-026",
+    "source": "rm-0001-2026-ae",
+    "sourceName": "RM 0001/2026 Alternativa y Especial",
+    "question": "¿A qué instancia deben entregarse las becas de los centros de educación alternativa privados para su distribución?",
+    "options": ["Al Ministerio de Educación", "A la Subdirección de Educación Alternativa y Especial correspondiente", "A la Dirección Distrital", "A las Juntas Escolares"],
+    "correctIndex": 1,
+    "explanation": "El Art. 52 establece que las becas deberán ser entregadas a la Subdirección de Educación Alternativa y Especial correspondiente, a fin de ser distribuidas a la población vulnerable."
+  },
+  {
+    "id": "RMAE-027",
+    "source": "rm-0001-2026-ae",
+    "sourceName": "RM 0001/2026 Alternativa y Especial",
+    "question": "¿Qué documento se requiere para la obtención del Diploma de Bachiller en Educación Alternativa?",
+    "options": ["Formulario CUT-DB-ALT", "Formulario RUDEAL", "Certificado de nacimiento original", "Acta de compromiso"],
+    "correctIndex": 0,
+    "explanation": "El Art. 36 establece como requisito el Formulario de Certificado Único de Trámite de Diploma de Bachiller CUT-DB-ALT."
+  },
+  {
+    "id": "RMAE-028",
+    "source": "rm-0001-2026-ae",
+    "sourceName": "RM 0001/2026 Alternativa y Especial",
+    "question": "¿Cuál es el plazo máximo para la legalización de documentos de estudiantes provenientes de otros departamentos o distritos educativos alejados?",
+    "options": ["5 días calendario", "10 días calendario", "15 días calendario", "30 días calendario"],
+    "correctIndex": 2,
+    "explanation": "El Art. 37 establece que este proceso deberá completarse en un plazo máximo de quince (15) días calendario y no tendrá costo alguno."
+  },
+  {
+    "id": "RMAE-029",
+    "source": "rm-0001-2026-ae",
+    "sourceName": "RM 0001/2026 Alternativa y Especial",
+    "question": "¿Cómo se llama el instrumento de planificación que los Centros de Educación Alternativa deben elaborar al inicio de la gestión?",
+    "options": ["PAD", "POA", "PDC", "PEI"],
+    "correctIndex": 1,
+    "explanation": "El Art. 28 establece que cada Centro de Educación Alternativa (CEA) deberá elaborar su POA (Plan Operativo Anual) de acuerdo a los lineamientos vigentes."
+  },
+  {
+    "id": "RMAE-030",
+    "source": "rm-0001-2026-ae",
+    "sourceName": "RM 0001/2026 Alternativa y Especial",
+    "question": "¿Hasta qué fecha deben entregar los directores departamentales de educación los Planes Anuales Departamentales al Viceministerio de Educación Alternativa y Especial?",
+    "options": ["Hasta el 31 de enero de 2026", "Hasta el 27 de febrero de 2026", "Hasta el 15 de marzo de 2026", "Hasta el 30 de abril de 2026"],
+    "correctIndex": 1,
+    "explanation": "El Art. 25 establece que los Planes Anuales Departamentales y el acta de compromiso deberán ser entregados al Viceministerio de Educación Alternativa y Especial hasta el 27 de febrero de 2026."
+  },
+  {
+    "id": "RMAE-031",
+    "source": "rm-0001-2026-ae",
+    "sourceName": "RM 0001/2026 Alternativa y Especial",
+    "question": "¿Qué pasa con los estudiantes de Educación Regular que se cambian a Educación Alternativa?",
+    "options": ["Deben hacer un examen de admisión", "Continúan con el mismo número de RUDE, dando de baja en el SIE de Educación Regular", "Deben repetir el año", "Deben inscribirse como nuevos con nuevo RUDE"],
+    "correctIndex": 1,
+    "explanation": "El Art. 17 establece que los estudiantes provenientes de Educación Regular podrán continuar sus estudios con el mismo número de RUDE, debiendo darse la baja en el Sistema de Información Educativa de Educación Regular."
+  },
+  {
+    "id": "RMAE-032",
+    "source": "rm-0001-2026-ae",
+    "sourceName": "RM 0001/2026 Alternativa y Especial",
+    "question": "Según la tabla de equivalencias, ¿a qué etapa de Educación Alternativa corresponde el 4to de Primaria de Educación Regular?",
+    "options": ["Aprendizajes Elementales", "Aprendizajes Avanzados", "Aprendizajes Aplicados", "Aprendizajes Complementarios"],
+    "correctIndex": 1,
+    "explanation": "El Art. 17 establece que 4to, 5to y 6to de Primaria de Educación Regular equivalen a Aprendizajes Avanzados en Educación Alternativa."
+  },
+  {
+    "id": "RMAE-033",
+    "source": "rm-0001-2026-ae",
+    "sourceName": "RM 0001/2026 Alternativa y Especial",
+    "question": "Según la tabla de equivalencias, ¿a qué etapa de Educación Alternativa corresponde el 1ro de Secundaria de Educación Regular?",
+    "options": ["Aprendizajes Elementales", "Aprendizajes Avanzados", "Aprendizajes Aplicados", "Aprendizajes Complementarios"],
+    "correctIndex": 2,
+    "explanation": "El Art. 17 establece que 1ro y 2do de Secundaria de Educación Regular equivalen a Aprendizajes Aplicados en Educación Alternativa."
+  },
+  {
+    "id": "RMAE-034",
+    "source": "rm-0001-2026-ae",
+    "sourceName": "RM 0001/2026 Alternativa y Especial",
+    "question": "¿Qué tipo de kioscos pueden expender alimentos en los centros de educación especial?",
+    "options": ["Cualquier tipo de kiosco", "Kioscos saludables", "Kioscos autorizados por la Alcaldía", "Solo cooperativas"],
+    "correctIndex": 1,
+    "explanation": "El Art. 80 establece que los directores son responsables de verificar la higiene y manipulación de alimentos ofertados en los Kioscos saludables."
+  },
+  {
+    "id": "RMAE-035",
+    "source": "rm-0001-2026-ae",
+    "sourceName": "RM 0001/2026 Alternativa y Especial",
+    "question": "¿Qué tipo de productos deben priorizarse en los kioscos de los centros de educación especial?",
+    "options": ["Alimentos procesados importados", "Alimentos con alto contenido de azúcar", "Alimentos nutricionales y orgánicos", "Alimentos con conservantes"],
+    "correctIndex": 2,
+    "explanation": "El Art. 80 establece que los kioscos deben priorizar alimentos nutricionales y orgánicos (frutas, cereales, verduras, lácteos y otros)."
+  },
+  {
+    "id": "RMAE-036",
+    "source": "rm-0001-2026-ae",
+    "sourceName": "RM 0001/2026 Alternativa y Especial",
+    "question": "¿Cuál es la prohibición respecto a cobros en los centros de educación alternativa y especial fiscales y de convenio?",
+    "options": ["Pueden cobrar hasta 50 Bs por concepto administrativo", "Pueden cobrar matrícula simbólica", "Están terminantemente prohibidos de realizar cualquier tipo de cobros", "Pueden cobrar solo por materiales educativos"],
+    "correctIndex": 2,
+    "explanation": "El Art. 81 establece que las direcciones departamentales, distritales, centros de educación alternativa y especial fiscales y de convenio quedan terminantemente prohibidos de realizar cualquier tipo de cobros."
+  },
+  {
+    "id": "RMAE-037",
+    "source": "rm-0001-2026-ae",
+    "sourceName": "RM 0001/2026 Alternativa y Especial",
+    "question": "¿Hasta qué fecha deben conformarse las organizaciones estudiantiles en los centros de educación alternativa y especial?",
+    "options": ["Hasta el 15 de febrero de 2026", "Hasta el 2 de marzo de 2026", "Hasta el 30 de marzo de 2026", "Hasta el 15 de abril de 2026"],
+    "correctIndex": 1,
+    "explanation": "El Art. 84 establece que las organizaciones estudiantiles se deben conformar hasta el 2 de marzo de 2026."
+  },
+  {
+    "id": "RMAE-038",
+    "source": "rm-0001-2026-ae",
+    "sourceName": "RM 0001/2026 Alternativa y Especial",
+    "question": "¿Qué documento regula la atención educativa para poblaciones diversas y vulnerables en Educación Alternativa?",
+    "options": ["RM 0774/2025", "RM 0186/2024", "RM 0166/2025", "RM 0600/2025"],
+    "correctIndex": 0,
+    "explanation": "El Art. 23, numeral 4, establece que los centros de educación alternativa que desarrollan procesos educativos con población diversa deberán implementar lo dispuesto en la Resolución Ministerial N° 0774/2025."
+  },
+  {
+    "id": "RMAE-039",
+    "source": "rm-0001-2026-ae",
+    "sourceName": "RM 0001/2026 Alternativa y Especial",
+    "question": "¿Cuáles son los niveles de certificación de la formación técnica en el ámbito de Educación Especial?",
+    "options": ["Técnico Básico, Técnico Auxiliar, Técnico Medio", "Técnico Operario, Técnico Básico, Técnico Auxiliar", "Técnico Medio, Técnico Superior, Licenciatura", "Técnico Elemental, Técnico Avanzado"],
+    "correctIndex": 1,
+    "explanation": "El Art. 75 establece que el proceso de certificación de los niveles Técnico Operario, Técnico Básico y Técnico Auxiliar están sujetos al Reglamento para la Formación Técnica Tecnológica Productiva del ámbito de Educación Especial."
+  },
+  {
+    "id": "RMAE-040",
+    "source": "rm-0001-2026-ae",
+    "sourceName": "RM 0001/2026 Alternativa y Especial",
+    "question": "¿Cuál es el Sistema que constituye la única instancia reconocida por el Ministerio de Educación para desarrollar procesos de certificación de competencias?",
+    "options": ["SIE", "SPCC (Sistema Plurinacional de Certificación de Competencias)", "SICH", "RUDEAL"],
+    "correctIndex": 1,
+    "explanation": "El Art. 42 establece que el Sistema Plurinacional de Certificación de Competencias (SPCC) es la única instancia reconocida por el Ministerio de Educación para desarrollar procesos de certificación de competencias."
+  }
+]
